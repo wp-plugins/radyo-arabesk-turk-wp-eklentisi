@@ -1,4 +1,7 @@
-﻿=== Radyo Arabesk TÜRK Wordpress Radyo Player Eklentisi ===
+﻿<a href="http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/530501_392254017530646_1224921064_n.jpg"><img src="http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/530501_392254017530646_1224921064_n.jpg" alt="530501_392254017530646_1224921064_n" width="555" height="219" class="aligncenter size-full wp-image-13076" /></a>
+
+
+=== Radyo Arabesk TÜRK Wordpress Radyo Player Eklentisi ===
 Contributors: Gönül Yorgunu Ferhat
 Donate link: http://www.radyoarabeskturk.com/
 Tags: radyo arabesk turk wp eklentisi, arabeskurk, radyo dinle,damar radyo dinle,arabesk radyo dinle,wp radyo player,wp Radyo Eklentisi,wp Damar Radyo Eklentisi,wp Arabesk Radyo Eklentisi,wordpress Radyo Eklentisi,wordpress radyo player
