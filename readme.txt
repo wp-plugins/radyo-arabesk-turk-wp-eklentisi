@@ -22,13 +22,15 @@ Some features:
 
 == Installation ==
 
-İndirdiğiniz Radyo Arabesk TÜRK Wordpress Eklentisini Zipli Dosyadan Çıkarıp Plugin klasörüne Atıyorsunuz.Eklentiyi Aktif Edip Birleşenler kısmından Görünmesini İstediğiniz Yere Sürükleyip Bırakıyorsunuz...
+İndirdiğiniz Radyo Arabesk TÜRK Wordpress Eklentisini Zipli Dosyadan Çıkarıp /wp-content/plugins/` klasörüne yükleyiniz.Eklentiyi Aktif Edip Birleşenler kısmından Görünmesini İstediğiniz Yere Sürükleyip Bırakıyorsunuz...
 
  
 == Screenshots ==
 
-trunk/screenshot-1.png
+Resim 1  screenshot-1.png
 
-trunk/screenshot-2.png
 
-trunk/screenshot-3.png
+resim 2 screenshot-2.png
+
+resim 3  screenshot-3.png
+
