@@ -1,4 +1,4 @@
-﻿=== Radyo Arabesk TÜRK Dinle ===
+﻿=== Radyo Arabesk TÜRK Player ===
 Contributors: Gönül Yorgunu Ferhat
 Donate link: http://www.radyoarabeskturk.com/
 Tags: radyo arabesk turk wp eklentisiradyo, arabeskurk, radyo dinle,damar radyo dinle,arabesk radyo dinle,wp radyo player
@@ -8,7 +8,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Radyo Arabesk TÜRK online yayını dinleme bileşenidir.
+Radyo Arabesk TÜRK Wordpress online canlı yayın dinleme bileşenidir.
 
 == Description ==
 
@@ -22,10 +22,13 @@ Some features:
 
 == Installation ==
 
-Extract the zip file and just drop the contents in the wp-content/plugins/ directory of your WordPress installation and then activate the Plugin from Plugins page.
+İndirdiğiniz Radyo Arabesk TÜrk Wordpress Eklentisini Zipli Dosyadan Çıkarıp Plugin klasörüne Atıyorsunuz.Eklentiyi Aktif Edip Birleşenler kısmından Görünmesini İstediğiniz Yere Sürükleyip Bırakıyorsunuz...
 
  
 == Screenshots ==
-1. Radyo Arabesk TÜRK Ayarları Penceresi
 
-2. Site üzerindeki Görünümü
+/assets/screenshot-1.png
+
+/assets/screenshot-2.png
+
+/assets/screenshot-3.png
