@@ -1,4 +1,4 @@
-﻿<a href="http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/530501_392254017530646_1224921064_n.jpg"><img src="http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/530501_392254017530646_1224921064_n.jpg" alt="530501_392254017530646_1224921064_n" width="555" height="219" class="aligncenter size-full wp-image-13076" /></a>
+﻿
 
 
 === Radyo Arabesk TÜRK Wordpress Radyo Player Eklentisi ===
