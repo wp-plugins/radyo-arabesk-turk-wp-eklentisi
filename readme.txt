@@ -13,12 +13,13 @@ Radyo Arabesk TÜRK Wordpress online canlı yayın dinleme bileşenidir.
 == Description ==
 
 Radyo Arabesk TÜRK Dinle Bileşeni ile web sitenizin ziyaretçilerine Radyo Arabesk TÜRK dinlemelerini sağlayabilirsiniz. Daha fazla bilgi edinmek için http://www.radyoarabeskturk.com adresini kullanabilirsiniz. yazyının orjinali http://www.radyoarabeskturk.com adresinde yapılmaktadır. 
-
-Some features:
+Özellikleri:
 
     * Bileşen ayarları penceresinden radyo boyutları ayarlanabilir.
 
-    * Bileşen başlığı değiştirilebilir
+    * Bileşen başlığı değiştirilebilir 
+
+    * Canlı Aralıksız Damar- Arabesk Müzik Dinletebilirsiniz
 
 == Installation ==
 
@@ -27,10 +28,10 @@ Some features:
  
 == Screenshots ==
 
-Resim 1  screenshot-1.png
+Resim 1  http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/screenshot-1.png
 
 
-resim 2 screenshot-2.png
+resim 2 http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/screenshot-2.png
 
-resim 3  screenshot-3.png
+resim 3  http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/screenshot-3.jpg
 
