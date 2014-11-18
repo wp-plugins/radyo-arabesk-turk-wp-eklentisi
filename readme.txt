@@ -27,8 +27,8 @@ Some features:
  
 == Screenshots ==
 
-/assets/screenshot-1.png
+screenshot-1.png
 
-/assets/screenshot-2.png
+screenshot-2.png
 
-/assets/screenshot-3.png
+screenshot-3.png
