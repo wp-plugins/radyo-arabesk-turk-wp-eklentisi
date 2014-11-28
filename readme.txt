@@ -39,7 +39,8 @@ resim 2 http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/screenshot-2.
 resim 3  http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/screenshot-3.jpg
 
 == Changelog ==
-
 = 1.0 =
-* A change since the previous version.
-* Another change.
+* WordPress 4.0 ile test edilmiştir
+
+== Upgrade Notice ==
+1.00
