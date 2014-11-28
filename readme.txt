@@ -3,7 +3,7 @@ Contributors: Gönül Yorgunu Ferhat
 Donate link: http://www.radyoarabeskturk.com/reklam.html
 Tags: radyo arabesk turk wp eklentisi, arabeskurk, radyo dinle,damar radyo dinle,arabesk radyo dinle,wp radyo player,wp Radyo Eklentisi,wp Damar Radyo Eklentisi,wp Arabesk Radyo Eklentisi,wordpress Radyo Eklentisi,wordpress radyo player,wordpress radyo player widget,wordpress radyo player plugin,wordpress radyo player sidebar
 Requires at least: 3.0.1
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -43,4 +43,6 @@ resim 3  http://www.radyoarabeskturk.com/wp-content/uploads/2014/11/screenshot-3
 * WordPress 4.0 ile test edilmiştir
 
 == Upgrade Notice ==
-1.00
+	
+= 1.0 =
+First version available to public
