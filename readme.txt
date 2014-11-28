@@ -1,4 +1,4 @@
-﻿=== Radyo Arabesk TÜRK Wordpress Radyo Player Eklentisi ===
+﻿=== Radyo Arabesk TÜRK Wp Radyo Player Eklentisi ===
 Contributors: Gönül Yorgunu Ferhat
 Donate link: http://www.radyoarabeskturk.com/reklam.html
 Tags: radyo arabesk turk wp eklentisi, arabeskurk, radyo dinle,damar radyo dinle,arabesk radyo dinle,wp radyo player,wp Radyo Eklentisi,wp Damar Radyo Eklentisi,wp Arabesk Radyo Eklentisi,wordpress Radyo Eklentisi,wordpress radyo player,wordpress radyo player widget,wordpress radyo player plugin,wordpress radyo player sidebar
