@@ -10,7 +10,7 @@ Requires at least: 3.0
 
 Tested up to: 4.1
 
-Stable tag: 1.15
+Stable tag: 2.0
 
 License: GPLv2 or later
 
@@ -49,8 +49,8 @@ Destek Ve Sorularınız İçin
   arabeskturk@msn.com
 
 == Changelog ==
-= 1.0 =
+= 2.0 =
 * Wordpress 4.0 ile test edilmiştir
 
 == Upgrade Notice == 
-1.00
+2.00
