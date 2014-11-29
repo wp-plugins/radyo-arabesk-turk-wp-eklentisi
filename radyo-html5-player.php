@@ -11,6 +11,7 @@ Version: 2.0
 /*-- Create Sortcode Radyo Arabeskturk --*/
 function radyo_arabeskturk_source( $atts ){
 ?>
+<!--Radyoarabeskturk.com WP Player-->
 <iframe height="350" scrolling="no" src="http://www.radyoarabeskturk.com/dinle/" width="100%"></iframe>
 
 <?php
@@ -56,6 +57,7 @@ class radyoarabeskturkwidget extends WP_Widget
  
     // WIDGET CODE GOES HERE
   ?>
+<!--Radyoarabeskturk.com WP Player-->
 <iframe height="200" scrolling="no" src="http://www.radyoarabeskturk.com/dinle/" width="100%"></iframe>
  <?php
     echo $after_widget;
