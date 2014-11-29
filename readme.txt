@@ -49,8 +49,8 @@ Destek Ve Sorularınız İçin
   arabeskturk@msn.com
 
 == Changelog ==
-= 1.0 =
+= 2.0 =
 * Wordpress 4.0 ile test edilmiştir
 
 == Upgrade Notice == 
-1.00
+2.00
