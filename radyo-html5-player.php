@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Plugin Name: Radyo Arabesk TÜRK HTML5 Player
 Plugin URI: http://www.radyoarabeskturk.com/
