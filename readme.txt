@@ -49,7 +49,7 @@ Destek Ve Sorularınız İçin
 
 == Changelog ==
 = 2.0 =
-* Wordpress 4.0 ile test edilmiştir
+* Wordpress 4.1 ile test edilmiştir
 
 == Upgrade Notice == 
 2.00
