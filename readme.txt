@@ -53,4 +53,4 @@ Destek Ve Sorularınız İçin
 * Wordpress 4.1 ile test edilmiştir
 
 == Upgrade Notice == 
-2.00
+   2.00
