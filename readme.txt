@@ -4,13 +4,14 @@ Contributors: Radyo Arabesk TÜRK
 
 Donate link: http://www.radyoarabeskturk.com/reklam.html
 
-Tags: radyo arabesk turk wp eklentisiradyo, arabeskurk, radyo dinle,damar radyo dinle,arabesk radyo dinle,wp radyo player, wp html5 radyo player,widget, plugin, sidebar, radio, online radio, online radio plugin, radio WordPress plugin, radio plugin, music, music player, radio player, player, song, Short code, 
+Tags: radyo arabesk turk wp eklentisi,radyo arabeskurk, radyo dinle,damar radyo dinle,arabesk radyo dinle,wp radyo player,wp html5 radyo player,widget, plugin, sidebar, radio, online radio, online radio plugin, radio WordPress plugin, radio plugin, music, music player, radio player, player, song, Short code, 
 
 Requires at least: 3.0
 
 Tested up to: 4.1
 
-Stable tag: 2.0
+Stable tag: 2.1
+
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -49,8 +50,8 @@ Destek Ve Sorularınız İçin
   arabeskturk@msn.com
 
 == Changelog ==
-= 2.0 =
+= 2.1 =
 * Wordpress 4.1 ile test edilmiştir
 
 == Upgrade Notice == 
-2.00
+2.1
