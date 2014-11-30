@@ -25,6 +25,8 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 
 -  Radyo Arabesk TÜRK Playeri Birleşen Veya Sayfanıza Yada Yazılarınıza Ekleyebilirsiniz .
 
+-  Android Mobil Cihazlarda Çalışır .
+
 - Ekletimizi Yükleyip Aktif Ettikten Sonra Birleşenler Kısmında Radyo Arabesk TÜRK Kısım oluşur Birleşeni İsteğiniz Yere Ekleyebilirsiniz.
 
 - Sayfalarda Ve Yazılarda Ekleteyi Kullanmanız İçin  [radyoarabeskturk] Kısa Kodunu Kullanınız.
@@ -35,8 +37,15 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 
 == Installation ==
 
-İndirdiğiniz Radyo Arabesk TÜRK WordPress Eklentisini Zipli Dosyadan Çıkarıp /wp-content/plugins/` klasörüne yükleyiniz. Eklentiyi Aktif Edip Birleşenler kısmından Görünmesini İstediğiniz Yere Sürükleyip Bırakıyorsunuz...
-Sayfalara Ve Yazılara Playeri Gömmek için [radyoarabeskturk] Kısa Kodu Kullanınız...
+-  İndirdiğiniz Radyo Arabesk TÜRK WordPress Eklentisini Zipli Dosyadan Çıkartın.
+
+-  Zipli Dosya İçersindeki radyo-arabesk-turk-wp-eklentisi Klasörünü /wp-content/plugins/` klasörüne yükleyiniz.
+
+-  Eklentiyi Aktif Edip Birleşenler kısmından Görünmesini İstediğiniz Yere Sürükleyip Bırakıyorsunuz.
+
+-  Sayfalara Ve Yazılara Playeri Gömmek için [radyoarabeskturk] Kısa Kodu Kullanınız...
+  
+
 
 
 == Screenshots ==
