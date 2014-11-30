@@ -1,6 +1,6 @@
-﻿=== WP Html5 Radyo Player ===
+﻿=== Radyo Arabesk TÜRK WP Html5 Radyo Player ===
 
-Contributors: Radyo Arabesk TÜRK
+Contributors: Radyoarabeskturk 
 
 Donate link: http://www.radyoarabeskturk.com/reklam.html
 
