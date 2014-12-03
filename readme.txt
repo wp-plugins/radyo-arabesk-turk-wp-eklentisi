@@ -1,4 +1,4 @@
-﻿=== WP Html5 Radyo Player ===
+﻿=== Radyo Arabesk TÜRK WP Html5 Radyo Player ===
 
 Contributors: Radyo Arabesk TÜRK
 
