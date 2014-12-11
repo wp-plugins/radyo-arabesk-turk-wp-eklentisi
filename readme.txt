@@ -32,6 +32,8 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 
 -  Dinleme Seçenekleri Pop-up winamp Medya Player.
 
+-  Radyo Player Yenile Butonu.
+
 -  Radyo İstek Hattı Online İstek İsteyebilirsiniz.
 
 -  Daha fazla bilgi edinmek için http://www.radyoarabeskturk.com adresini kullanabilirsiniz. 
