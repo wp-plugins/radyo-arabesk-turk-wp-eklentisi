@@ -1,4 +1,4 @@
-﻿=== Radyo Arabesk TÜRK WP Html5 Radyo Player ===
+﻿=== Radyo Arabesk TÜRK WP Radyo Player ===
 
 Contributors: Radyoarabeskturk 
 
@@ -19,21 +19,24 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sitenize Ekleyebilirsiniz.
 
 == Description ==
+
 Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sitenize Ekleyebilirsiniz.
 
--  Radyo Arabesk TÜRK En Damar Şarkılarla 24/7 Yayında..
+-  Radyo Arabesk TÜRK En Damar Şarkılarla 24/7 Canlı Yayın...
 
 -  Radyo Arabesk TÜRK Playeri Birleşen Veya Sayfanıza Yada Yazılarınıza Ekleyebilirsiniz .
 
--  Android Mobil Cihazlarda Çalışır .
+-  Sayfalarda Ve Yazılarda Eklenteyi Kullanmanız İçin  [radyoarabeskturk] Kısa Kodunu Kullanınız.
 
-- Ekletimizi Yükleyip Aktif Ettikten Sonra Birleşenler Kısmında Radyo Arabesk TÜRK Kısım oluşur Birleşeni İsteğiniz Yere Ekleyebilirsiniz.
+-  Eklentimizi Yükleyip Aktif Ettikten Sonra Birleşenler Kısmında Radyo Arabesk TÜRK Kısım oluşur Birleşeni İsteğiniz Yere Ekleyebilirsiniz.
 
-- Sayfalarda Ve Yazılarda Ekleteyi Kullanmanız İçin  [radyoarabeskturk] Kısa Kodunu Kullanınız.
+-  Dinleme Seçenekleri Pop-up winamp Medya Player.
 
-- Daha fazla bilgi edinmek için http://www.radyoarabeskturk.com adresini kullanabilirsiniz. 
+-  Radyo İstek Hattı Online İstek İsteyebilirsiniz.
 
-- Yazının orjinali http://www.radyoarabeskturk.com/wp-html5-radyo-player.html adresinde yayınlanmaktadır.
+-  Daha fazla bilgi edinmek için http://www.radyoarabeskturk.com adresini kullanabilirsiniz. 
+
+-  Radyomuzun Worpress eklentisi için şikayet ve önerileriniz için yorumlarınızı bekliyoruz.
 
 == Installation ==
 
