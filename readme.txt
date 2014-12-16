@@ -8,7 +8,7 @@ Tags: radyo arabesk turk wp eklentisi,radyo arabeskurk, shoutcast player, Wp sho
 
 Requires at least: 3.0
 
-Tested up to: 4.1
+Tested up to: 4.0.1
 
 Stable tag: 2.1
 
