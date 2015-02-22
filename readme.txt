@@ -50,8 +50,8 @@ Destek Ve Sorularınız İçin
   arabeskturk@msn.com
 
 == Changelog ==
-= 2.1 =
+= 2.2 =
 * Wordpress 4.1 ile test edilmiştir
 
 == Upgrade Notice == 
-2.1
+2.2
