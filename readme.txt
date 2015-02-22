@@ -31,7 +31,7 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 
 - Daha fazla bilgi edinmek için [Radyoarabesk TÜRK](http://www.radyoarabeskturk.com) adresini kullanabilirsiniz. 
 
-- Yazının orjinali [Radyo Arabesk TÜRK WordPress Eklentisi](http://www.radyoarabeskturk.com/wp-html5-radyo-player.html) Yazısında yayınlanmaktadır.
+- Yazının orjinali [Radyo Arabesk TÜRK WordPress Eklentisi](http://www.radyoarabeskturk.com/radyoarabeskturk-wp-eklentisi.html) Yazısında yayınlanmaktadır.
 
 == Installation ==
 
