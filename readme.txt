@@ -29,7 +29,7 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 
 - Sayfalarda Ve Yazılarda Ekleteyi Kullanmanız İçin  [radyoarabeskturk] Kısa Kodunu Kullanınız.
 
-- Daha fazla bilgi edinmek için http://www.radyoarabeskturk.com adresini kullanabilirsiniz. 
+- Daha fazla bilgi edinmek için [Radyoarabesk TÜRK](http://www.radyoarabeskturk.com) adresini kullanabilirsiniz. 
 
 - Yazının orjinali http://www.radyoarabeskturk.com/wp-html5-radyo-player.html adresinde yayınlanmaktadır.
 
