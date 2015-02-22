@@ -38,6 +38,8 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 
 -  Masa Üstü Player Eklendi
 
+-  İframe Kaldırmıştır Yerine javascript Kullanılmıştır.
+
 -  Daha fazla bilgi edinmek için http://www.radyoarabeskturk.com adresini kullanabilirsiniz. 
 
 -  Radyomuzun Worpress eklentisi için şikayet ve önerileriniz için yorumlarınızı bekliyoruz.
