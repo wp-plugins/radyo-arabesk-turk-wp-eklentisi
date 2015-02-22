@@ -58,7 +58,7 @@ class radyoarabeskturkwidget extends WP_Widget
     // WIDGET CODE GOES HERE
   ?>
 <!--Radyoarabeskturk.com WP Player-->
-<script src="http://www.radyoarabeskturk.com/dinle/wp-yayin.js" language="javascript"></script>
+<iframe height="200" scrolling="no" src="http://www.radyoarabeskturk.com/dinle/" width="100%"></iframe>
  <?php
     echo $after_widget;
   }
