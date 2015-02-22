@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 /*
 Plugin Name: Radyo Arabesk TÜRK Player
 Plugin URI: http://www.radyoarabeskturk.com/
@@ -58,7 +58,7 @@ class radyoarabeskturkwidget extends WP_Widget
     // WIDGET CODE GOES HERE
   ?>
 <!--Radyoarabeskturk.com WP Player-->
-<iframe height="200" scrolling="no" src="http://www.radyoarabeskturk.com/dinle/" width="100%"></iframe>
+<script src="http://www.radyoarabeskturk.com/dinle/wp-yayin.js" language="javascript"></script>
  <?php
     echo $after_widget;
   }
