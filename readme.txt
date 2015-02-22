@@ -8,7 +8,7 @@ Tags: radyo arabesk turk wp eklentisi,radyo arabeskurk, shoutcast player, Wp sho
 
 Requires at least: 2.8
 
-Tested up to: 4.1.1
+Tested up to: 4.1
 
 Stable tag: 2.2
 
@@ -37,8 +37,6 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 -  Radyo İstek Hattı Online İstek İsteyebilirsiniz.
 
 -  Masa Üstü Player Eklendi
-
--  İframe Kaldırmıştır Yerine javascript Kullanılmıştır.
 
 -  Daha fazla bilgi edinmek için http://www.radyoarabeskturk.com adresini kullanabilirsiniz. 
 
@@ -70,7 +68,7 @@ Destek Ve Sorularınız İçin
 
 == Changelog ==
 = 2.2 =
-* Wordpress 4.1.1 ile test edilmiştir
+* Wordpress 4.1 ile test edilmiştir
 
 == Upgrade Notice == 
 2.2
