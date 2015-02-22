@@ -5,7 +5,7 @@ Plugin URI: http://www.radyoarabeskturk.com/
 Description: Radyo Arabesk TÜRK Radyo Playeri İsterseniz Widget Olarak İsterseniz Kısa Kodu Kullanarak Sayfanıza Yada Yazılarınıza Ekleyebilirsiniz [radyoarabeskturk].
 Author: Radyo Arabesk TÜRK
 Author URI: http://www.radyoarabeskturk.com
-Version: 2.1
+Version: 2.2
 */
 
 /*-- Create Sortcode Radyo Arabeskturk --*/

@@ -8,9 +8,9 @@ Tags: radyo arabesk turk wp eklentisi,radyo arabeskurk, shoutcast player, Wp sho
 
 Requires at least: 2.8
 
-Tested up to: 4.1
+Tested up to: 4.1.1
 
-Stable tag: 2.1
+Stable tag: 2.2
 
 License: GPLv2 or later
 
@@ -58,14 +58,15 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 2. Sayfa Ve Yazılar İçin player
 3. Widget - Birleşen
 4. Kenar çubuğu Player
+5. Masa Üstü Player Eklendi
 == Support ==
 
 Destek Ve Sorularınız İçin
   arabeskturk@msn.com
 
 == Changelog ==
-= 2.1 =
-* Wordpress 4.1 ile test edilmiştir
+= 2.2 =
+* Wordpress 4.1.1 ile test edilmiştir
 
 == Upgrade Notice == 
-2.1
+2.2
