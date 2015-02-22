@@ -36,6 +36,8 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 
 -  Radyo İstek Hattı Online İstek İsteyebilirsiniz.
 
+-  Masa Üstü Player Eklendi
+
 -  Daha fazla bilgi edinmek için http://www.radyoarabeskturk.com adresini kullanabilirsiniz. 
 
 -  Radyomuzun Worpress eklentisi için şikayet ve önerileriniz için yorumlarınızı bekliyoruz.
@@ -58,7 +60,7 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 2. Sayfa Ve Yazılar İçin player
 3. Widget - Birleşen
 4. Kenar çubuğu Player
-5. Masa Üstü Player Eklendi
+
 == Support ==
 
 Destek Ve Sorularınız İçin
