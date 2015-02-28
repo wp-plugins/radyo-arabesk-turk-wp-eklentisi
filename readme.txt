@@ -33,7 +33,7 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 
 - Yazının orjinali [Radyo Arabesk TÜRK WordPress Eklentisi](http://www.radyoarabeskturk.com/radyoarabeskturk-wp-eklentisi.html) Yazısında yayınlanmaktadır.
 
-= Radyo Arabesk TÜRK Tanıtım Videosu. =
+= Radyo Arabesk TÜRK Tanıtım Jenerik Videosu. =
 
 https://vimeo.com/120293549
 
