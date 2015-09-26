@@ -1,11 +1,11 @@
-<?php 
+﻿<?php 
 /*
 Plugin Name: Radyo Arabesk TÜRK Player
 Plugin URI: http://www.radyoarabeskturk.com/
 Description: Radyo Arabesk TÜRK Radyo Playeri İsterseniz Widget Olarak İsterseniz Kısa Kodu Kullanarak Sayfanıza Yada Yazılarınıza Ekleyebilirsiniz [radyoarabeskturk].
 Author: Radyo Arabesk TÜRK
 Author URI: http://www.radyoarabeskturk.com
-Version: 2.2.3
+Version: 2.2.4
 */
 
 /*-- Create Sortcode Radyo Arabeskturk --*/
