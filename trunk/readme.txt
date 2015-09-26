@@ -8,7 +8,7 @@ Tags: radyo arabesk turk wp eklentisi,radyo arabeskurk, radyo dinle,damar radyo 
 
 Requires at least: 2.8
 
-Tested up to: 4.3
+Tested up to: 4.3.1
 
 Stable tag: 2.2.4
 
@@ -22,8 +22,6 @@ Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sit
 Radyo Arabesk TÜRK'ü  widget veya Kısa kod olarak kullanılarak Wordpress Sitenize Ekleyebilirsiniz.
 
 -  Radyo Arabesk TÜRK En Damar Şarkılarla 7 Gün 24 Saat Yayında..
-
--  Radyo Arabesk TÜRK Playeri Birleşen Veya Sayfanıza Yada Yazılarınıza Ekleyebilirsiniz .
 
 - Ekletimizi Yükleyip Aktif Ettikten Sonra Birleşenler Kısmında Radyo Arabesk TÜRK Kısım oluşur Birleşeni İsteğiniz Yere Ekleyebilirsiniz.
 
@@ -40,7 +38,6 @@ https://vimeo.com/120293549
 == Installation ==
 
 İndirdiğiniz Radyo Arabesk TÜRK WordPress Eklentisini Zipli Dosyadan Çıkarıp /wp-content/plugins/` klasörüne yükleyiniz. Eklentiyi Aktif Edip Birleşenler kısmından Görünmesini İstediğiniz Yere Sürükleyip Bırakıyorsunuz...
-Sayfalara Ve Yazılara Playeri Gömmek için [radyoarabeskturk] Kısa Kodu Kullanınız...
 
 
 == Screenshots ==
