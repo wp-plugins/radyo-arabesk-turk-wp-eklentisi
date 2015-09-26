@@ -8,7 +8,7 @@ Tags: radyo arabesk turk wp eklentisi,radyo arabeskurk, radyo dinle,damar radyo 
 
 Requires at least: 2.8
 
-Tested up to: 4.3.1
+Tested up to: 4.3
 
 Stable tag: 2.2.4
 
