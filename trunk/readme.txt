@@ -41,10 +41,11 @@ https://vimeo.com/120293549
 
 
 == Screenshots ==
-1. Sayfalar Ve Yazılar İçin Kısa Kod
-2. Sayfa Ve Yazılar İçin player
-3. Widget - Birleşen
-4. Kenar çubuğu Player
+1. Görünüm
+2. Widget - Birleşen
+3. Kenar çubuğu Player
+
+
 == Support ==
 
 Destek Ve Sorularınız İçin
