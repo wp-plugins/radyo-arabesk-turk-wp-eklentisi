@@ -50,6 +50,14 @@ https://vimeo.com/120293549
 Destek Ve Sorularınız İçin
   arabeskturk@msn.com
 
+
+== Frequently Asked Questions ==
+
+
+
+Yok.
+
+
 == Changelog ==
 
 = 2.2.4 =
