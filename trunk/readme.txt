@@ -4,7 +4,7 @@ Contributors: Radyo Arabesk TÜRK
 
 Donate link: http://www.radyoarabeskturk.com/
 
-Tags: radyo arabesk turk wp eklentisi,radyo arabeskurk, radyo dinle,damar radyo dinle,arabesk radyo dinle,wp radyo player,wp html5 radyo player,widget, plugin, sidebar, radio, online radio, online radio plugin, radio WordPress plugin, radio plugin, music, music player, radio player, player, song, Short code, 
+Tags: arabesk radyo dinle, damar radyo dinle, music, music player, online radio, online radio plugin, player, plugin, radio, Radio Player, radio plugin, radio WordPress plugin, radyo arabesk turk wp eklentisi, radyo arabeskurk, radyo dinle, short code, sidebar, song, widget, wp html5 radyo player, wp radyo player 
 
 Requires at least: 2.8
 
