@@ -51,7 +51,32 @@ Destek Ve Sorularınız İçin
   arabeskturk@msn.com
 
 == Changelog ==
+
 = 2.2.4 =
+
+* Link Updated
+
+= 2.2.3 =
+
+* Link Updated
+
+= 2.2 =
+
+* Link Updated
+
+= 2.1 =
+
+* Link Updated
+
+= 2.0 =
+
+* Design Yenilendi
+
+= 1.0 =
+
+* Eklenti yayınlandı
+
+
 * Wordpress 4.3.1 ile test edilmiştir
 
 == Upgrade Notice == 
