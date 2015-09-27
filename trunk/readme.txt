@@ -10,7 +10,7 @@ Requires at least: 2.8
 
 Tested up to: 4.3.1
 
-Stable tag: 2.2.4
+Stable tag: 2.2
 
 License: GPLv2 or later
 
@@ -61,13 +61,6 @@ Yok.
 
 == Changelog ==
 
-= 2.2.4 =
-
-* Link Updated
-
-= 2.2.3 =
-
-* Link Updated
 
 = 2.2 =
 
@@ -89,4 +82,4 @@ Yok.
 * Wordpress 4.3.1 ile test edilmiştir
 
 == Upgrade Notice == 
-2.2.4
+2.2
